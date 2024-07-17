@@ -7,4 +7,5 @@ Link to a video about the game: https://youtu.be/Q3qju4cvjTQ
 
 Links to used assets:
 - https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character
+- https://astrobob.itch.io/animated-pixel-art-skeleton
 - https://szadiart.itch.io/pixel-fantasy-caves
